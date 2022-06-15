@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-prueba conflicto
-=======
-prueba conflicto prueba1
->>>>>>> prueba1
+Voy a probar lo de los cambios
+
+asi que aqui dejo un espacio
+
+
+por aca dejo dos mas y y eliminare uno de esos
